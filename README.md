@@ -1,5 +1,11 @@
-## Hi there 👋
+![img](./img/ftl.jpeg)
 
+<!-- <h3 align="center"></h3> -->
+
+I'm **Wisnu Gufa Destiawan**,  one of the co-founders of **Fourteen Development**, a group of developers working together to build and deliver application projects across various platforms.
+Whether you need a website, an app, or a custom solution 
+
+— feel free to contact me. Let’s make your project happen!
 <!--
 **wisnugufad/wisnugufad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
